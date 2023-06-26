@@ -16,17 +16,14 @@ on 🐙 github in (profile 🙋🏽‍♀️) ~/cShirley14/README.md
       📊 AWS Solutions Architect Associate
   ⎈ Currently studying towards Kubernetes Cert
   🗣️ Professionally, languages I have used include:
+      🐧 Bash, Vim, Linux
       ⌨️ Typescript, React
       ☕ Java
       🪒 C#
       🐍 Python
-      🐧 Bash, Vim, Linux
+      
   🏫 In School Prepping for Masters in CS
 ```
  ![cShirley14's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cShirley14&theme=tokyonight&layout=compact&hide_border=true)
  
- ![cShirley14's gh stats](https://github-readme-stats.vercel.app/api?username=cShirley14&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&hide_border=true)
-
-
- ✨Most Used Languages and GH Stats unfortunately only shows public repos and/or does not link to corporate/professional work✨
-
+ ✨Most Used Languages unfortunately only shows public repos and/or does not link to corporate/professional work✨
