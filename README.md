@@ -16,7 +16,7 @@ on 🐙 github in (profile 🙋🏽‍♀️) ~/cShirley14/README.md
       📊 AWS Solutions Architect Associate
   ⎈ Currently studying towards Kubernetes Cert
   🗣️ Professionally, languages I have used include:
-      🐧 Bash, Vim, Linux
+      🐧 Bash
       ⌨️ Typescript, React
       ☕ Java
       🪒 C#
