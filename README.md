@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/cShirley14">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Chantal+👋🏽;I'm+a+SRE+👩🏽‍💻;I'm+always+learning+📖;Feel+free+to+connect+☕;&font=Fira+Code&color=949efb&background=000000&center=true&vCenter=true&weight=500">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Chantal+👋🏽;I'm+an+SRE+👩🏽‍💻;I'm+always+learning+📖;Feel+free+to+connect+☕;&font=Fira+Code&color=949efb&background=000000&center=true&vCenter=true&weight=500">
   </a>
 </p>
 
