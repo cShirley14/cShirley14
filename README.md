@@ -17,13 +17,10 @@ on 🐙 github in (profile 🙋🏽‍♀️) ~/cShirley14/README.md
   ⎈ Currently studying towards Kubernetes Cert
   🗣️ Professionally, languages I have used include:
       🐧 Bash
-      ⌨️ Typescript, React
+      ⌨️ Typescript
       ☕ Java
       🪒 C#
       🐍 Python
       
   🏫 In School Prepping for Masters in CS
 ```
- ![cShirley14's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cShirley14&theme=tokyonight&layout=compact&hide_border=true)
- 
- ✨Most Used Languages unfortunately only shows public repos and/or does not link to corporate/professional work✨
