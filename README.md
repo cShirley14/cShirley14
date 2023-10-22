@@ -9,7 +9,7 @@
 on 🐙 github in (profile 🙋🏽‍♀️) ~/cShirley14/README.md 
 ❯ cat ./About-Me.txt
 
-  💻 Devops Engineer
+  💻 Site Reliability Engineer
   📖 I have 3 AWS Certifications:
       🔒 AWS Security Specialty
       👩🏽‍💻 AWS Developer Associate
