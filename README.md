@@ -10,11 +10,13 @@ on 🐙 github in (profile 🙋🏽‍♀️) ~/cShirley14/README.md
 ❯ cat ./About-Me.txt
 
   💻 Site Reliability Engineer
-  📖 I have 3 AWS Certifications:
+
+  📖 I have 4 Cloud-Affiliated Certifications:
+      🛞 Certified Kubernetes Application Developer
       🔒 AWS Security Specialty
       👩🏽‍💻 AWS Developer Associate
       📊 AWS Solutions Architect Associate
-  ⎈ Currently studying towards Kubernetes Cert
+
   🗣️ Professionally, languages I have used include:
       🐧 Bash
       ⌨️ Typescript
@@ -22,5 +24,5 @@ on 🐙 github in (profile 🙋🏽‍♀️) ~/cShirley14/README.md
       🪒 C#
       🐍 Python
       
-  🏫 In School Prepping for Masters in CS
+  🏫 Prepping for Masters in CS
 ```
