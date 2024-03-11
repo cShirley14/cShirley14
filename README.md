@@ -19,10 +19,11 @@ on 🐙 github in (profile 🙋🏽‍♀️) ~/cShirley14/README.md
 
   🗣️ Professionally, languages I have used include:
       🐧 Bash
+      ❄️ Nix
       ⌨️ Typescript
       ☕ Java
-      🪒 C#
       🐍 Python
+      🪒 C#
       
   🏫 Prepping for Masters in CS
 ```
