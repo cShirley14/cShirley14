@@ -11,7 +11,8 @@ on 🐙 github in (profile 🙋🏽‍♀️) ~/cShirley14/README.md
 
   💻 Site Reliability Engineer
 
-  📖 I have 4 Cloud-Affiliated Certifications:
+  📖 I have 5 Cloud-Affiliated Certifications:
+      🛞 Certified Kubernetes Administrator
       🛞 Certified Kubernetes Application Developer
       🔒 AWS Security Specialty
       👩🏽‍💻 AWS Developer Associate
